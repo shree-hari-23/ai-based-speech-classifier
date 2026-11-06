@@ -1,0 +1,49 @@
+{
+  "total_recordings": 4240,
+  "datasets": {
+    "TESS": 2800,
+    "RAVDESS": 1440
+  },
+  "emotions_overall": {
+    "sad": 592,
+    "happy": 592,
+    "fearful": 592,
+    "angry": 592,
+    "disgust": 592,
+    "surprised": 592,
+    "neutral": 496,
+    "calm": 192
+  },
+  "emotions_by_dataset": {
+    "RAVDESS": {
+      "calm": 192,
+      "happy": 192,
+      "sad": 192,
+      "angry": 192,
+      "disgust": 192,
+      "fearful": 192,
+      "surprised": 192,
+      "neutral": 96
+    },
+    "TESS": {
+      "angry": 400,
+      "disgust": 400,
+      "fearful": 400,
+      "happy": 400,
+      "neutral": 400,
+      "surprised": 400,
+      "sad": 400
+    }
+  },
+  "gender_distribution": {
+    "female": 3520,
+    "male": 720
+  },
+  "total_speakers": 26,
+  "duration_stats": {
+    "mean_seconds": 2.61,
+    "std_seconds": 0.84,
+    "min_seconds": 1.25,
+    "max_seconds": 5.27
+  }
+}
